@@ -1,0 +1,68 @@
+*{
+    margin: 0%;
+}
+/* Set the background image for the entire body */
+body {
+    background-image: url('ima/1.webp'); /* Replace with your image path */
+    background-size: cover; /* Adjust as needed */
+}
+
+.heading{
+    color: white;
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+}
+.about{
+    background-color: rgb(140, 191, 191);
+    display: inline-block;
+    height: 200px;
+    width: 800px;
+    margin-top: 50px;
+    margin-left: 250px;
+    text-align: center;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+
+    h1,p{
+        padding: 20px;
+    }
+}
+.con{
+    color: black;
+    h2{
+        text-align: center;
+        padding-top: 100px;
+    }
+    #ii{ 
+        height: 30px;
+        width: 30px;
+        margin-left: 40%;
+        padding: 50px;
+        
+       
+
+    }
+    #oo{ height: 30px;
+        width: 30px;
+        margin-bottom: 50px;
+
+       
+        
+
+    }
+
+
+
+
+}
+
+   
+  
+
+
+
+
+
+
