@@ -3,8 +3,8 @@
 }
 /* Set the background image for the entire body */
 body {
-    background-image: url('ima/1.webp'); /* Replace with your image path */
-    background-size: cover; /* Adjust as needed */
+    background-image: url('ima/back.jpg'); /* Replace with your image path */
+    background-size:auto; /* Adjust as needed */
 }
 
 .heading{
